@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm a CS student from Bulgaria.<br><br>- 🔭 I’m  currentl looking for a job as a frontend developer. <br>- 📚 I'm currently learning NodeJs for backend.<br>- ⚡ In my free time I love to train BJJ.</p>
+<p align="left">I'm a CS student from Bulgaria.<br><br>- 🔭 I’m  currently looking for a job as a frontend developer. <br>- 📚 I'm currently learning NodeJs for backend.<br>- ⚡ In my free time I love to train BJJ and BAKE.</p>
 
 ###
 
